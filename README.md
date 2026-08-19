@@ -3,8 +3,8 @@
 Technical Skills: Python, SQL
 
 ### Education
-- M.S., Data Science | Boston University (_Expected December 2026_)
-- B.S., Global Affairs | University at Buffalo (_May 2023_)
+- M.S., Data Science \| Boston University (_Expected December 2026_)
+- B.S., Global Affairs \| University at Buffalo (_May 2023_)
 
 ### Work Experience
 **AI Fellow @ Handshake (_Oct 2025 - Present_)**
@@ -25,6 +25,7 @@ Analyzed 1.5M+ rows of longitudinal, county-level healthcare data to quantify mu
 <img src="assets/imgs/health disparities.jpg" alt="Health Disparities" height="400">
 
 **Retail Customer Segmentation Analysis (_Aug 2026 - Aug 2026_)**
+
 [Project link](https://github.com/aidandig/Retail-Customer-Segmentation-Analysis)
 
 Engineered an unsupervised machine learning framework on 500,000+ transactional records, computing RFM (Recency, Frequency, Monetary Value) features and handling outliers via the IQR Method and robust scaling. Trained K-Means clustering model to identify 4 distinct behavioral segments and manually identified 3 additional outlier clusters across 4,000+ customers, formulating data-driven retention and revenue optimization strategies.
@@ -32,6 +33,7 @@ Engineered an unsupervised machine learning framework on 500,000+ transactional 
 <img src="assets/imgs/customer segmentation.jpg" alt="Customer Segmentation" height="400">
 
 **Facial Recognition Ethics in Immigration Enforcement Project (_May 2026 - Aug 2026_)**
+
 [Project link](https://github.com/aidandig/Facial-Recognition-Ethics-in-Immigration-Enforcement-Project)
 
 Conducted comprehensive ethical and regulatory analysis of ICE’s biometric surveillance, evaluating the impact of
@@ -40,6 +42,7 @@ algorithmic bias, unverified accuracy metrics, and data privacy risks. Developed
 <img src="assets/imgs/facial recognition.jpg" alt="Facial Recognition" height="400">
 
 **Breast Cancer Diagnostics Model (_Nov 2025 - Dec 2025_)**
+
 [Project link](https://github.com/aidandig/Breast-Cancer-Diagnostics-Model-DX601-Final-Project)
 
 Engineered a statistical diagnostic modeling pipeline on the Wisconsin Diagnostic Breast Cancer (WDBC) dataset to model malignant vs. benign tumor characteristics. Conducted Principal Component Analysis (PCA) and collinearity diagnostics across high-dimensional morphological metrics, isolating 8 high-impact features while removing multicollinearity.
