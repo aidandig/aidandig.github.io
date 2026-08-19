@@ -3,9 +3,9 @@
 Technical Skills: Python, SQL
 
 ### Education
-M.S., Data Science | Boston University (*Expected December 2026*)
+M.S., Data Science \| Boston University (*Expected December 2026*)
 
-B.S., Global Affairs | University at Buffalo (*May 2023*)
+B.S., Global Affairs \| University at Buffalo (*May 2023*)
 
 ### Work Experience
 **AI Fellow @ Handshake (*Oct 2025 - Present*)**
