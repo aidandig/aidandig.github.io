@@ -6,9 +6,6 @@ author:
     name: Aidan DiGregorio
     email: aidan.digregorio@gmail.com
 
-minima:
-    social_links:
-        - title: Lets Connect on LinkedIn
-          icon: linkedin
-          url: "https://www.linkedin.com/in/aidan-digregorio/"
+github_username: aidandig
+linkedin_username: aidan-digregorio
   
