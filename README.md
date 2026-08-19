@@ -3,8 +3,8 @@
 Technical Skills: Python, SQL
 
 ### Education
-- M.S., Data Science \| Boston University (_Expected December 2026_)
-- B.S., Global Affairs \| University at Buffalo (_May 2023_)
+- M.S., Data Science - Boston University (_Expected December 2026_)
+- B.S., Global Affairs - University at Buffalo (_May 2023_)
 
 ### Work Experience
 **AI Fellow @ Handshake (_Oct 2025 - Present_)**
@@ -22,7 +22,7 @@ Technical Skills: Python, SQL
 
 Analyzed 1.5M+ rows of longitudinal, county-level healthcare data to quantify multi-dimensional cancer mortality risk profiles across socioeconomic, demographic, and clinical access determinants. Conducted multivariate regression and dependency analysis across high-dimensional feature spaces to isolate key risk drivers and formulate data-driven health policy recommendations.
 
-<img src="assets/imgs/health disparities.jpg" alt="Health Disparities" height="400">
+<img src="assets/imgs/health disparities.jpg" alt="Health Disparities" height="200">
 
 **Retail Customer Segmentation Analysis (_Aug 2026 - Aug 2026_)**
 
@@ -30,7 +30,7 @@ Analyzed 1.5M+ rows of longitudinal, county-level healthcare data to quantify mu
 
 Engineered an unsupervised machine learning framework on 500,000+ transactional records, computing RFM (Recency, Frequency, Monetary Value) features and handling outliers via the IQR Method and robust scaling. Trained K-Means clustering model to identify 4 distinct behavioral segments and manually identified 3 additional outlier clusters across 4,000+ customers, formulating data-driven retention and revenue optimization strategies.
 
-<img src="assets/imgs/customer segmentation.jpg" alt="Customer Segmentation" height="400">
+<img src="assets/imgs/customer segmentation.jpg" alt="Customer Segmentation" height="200">
 
 **Facial Recognition Ethics in Immigration Enforcement Project (_May 2026 - Aug 2026_)**
 
@@ -39,7 +39,7 @@ Engineered an unsupervised machine learning framework on 500,000+ transactional 
 Conducted comprehensive ethical and regulatory analysis of ICE’s biometric surveillance, evaluating the impact of
 algorithmic bias, unverified accuracy metrics, and data privacy risks. Developed a multi-tiered AI governance framework evaluating public safety, consent, and systemic risks under consequentialist and stakeholder impact methodologies. Produced executive-level deliverables including a technical policy paper, case study, and presentation synthesizing complex AI governance issues for legislative and public policy stakeholders.
 
-<img src="assets/imgs/facial recognition.jpg" alt="Facial Recognition" height="400">
+<img src="assets/imgs/facial recognition.jpg" alt="Facial Recognition" height="200">
 
 **Breast Cancer Diagnostics Model (_Nov 2025 - Dec 2025_)**
 
@@ -47,4 +47,4 @@ algorithmic bias, unverified accuracy metrics, and data privacy risks. Developed
 
 Engineered a statistical diagnostic modeling pipeline on the Wisconsin Diagnostic Breast Cancer (WDBC) dataset to model malignant vs. benign tumor characteristics. Conducted Principal Component Analysis (PCA) and collinearity diagnostics across high-dimensional morphological metrics, isolating 8 high-impact features while removing multicollinearity.
 
-<img src="assets/imgs/breast cancer.jpg" alt="Breast Cancer" height="400">
+<img src="assets/imgs/breast cancer.jpg" alt="Breast Cancer" height="200">
