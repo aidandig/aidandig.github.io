@@ -1,13 +1,14 @@
 title: Aidan DiGregorio
 logo: /assets/imgs/headshot.jpg
-theme: jekyll-theme-minima
+theme: minima
 
 author:
     name: Aidan DiGregorio
     email: aidan.digregorio@gmail.com
 
-social_links:
-    - title: Lets Connect on LinkedIn
-      icon: linkedin
-      url: "https://www.linkedin.com/in/aidan-digregorio/"
+minima:
+    social_links:
+        - title: Lets Connect on LinkedIn
+          icon: linkedin
+          url: "https://www.linkedin.com/in/aidan-digregorio/"
   
