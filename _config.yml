@@ -1,10 +1,6 @@
 title: Aidan DiGregorio
 logo: /assets/imgs/headshot.jpg
-theme: minima
-
-author:
-    name: Aidan DiGregorio
-    email: aidan.digregorio@gmail.com
+theme: jekyll-theme-minimal
 
 github_username: aidandig
 linkedin_username: aidan-digregorio
