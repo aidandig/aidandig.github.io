@@ -2,3 +2,11 @@ title: Aidan DiGregorio
 logo: /assets/imgs/headshot.jpg
 #show_downloads: true
 theme: jekyll-theme-minimal
+
+# Author settings
+author:
+  name: Aidan DiGregorio
+  email: aidan.digregorio@gmail.com
+
+# Social Links
+linkedin_username: aidan-digregorio
